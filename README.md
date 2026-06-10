@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I am Sakshi
 
-<!--
-**sakshianil/sakshianil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bioinformatics PhD, AI builder, and founder working at the intersection of scientific computing, Agentic AI, software automation, wellness technology, and practical business systems.
 
-Here are some ideas to get you started:
+My work combines research thinking, product strategy, AI-assisted development, and automation workflows to build useful tools for real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- Agentic AI workflows
+- RAG and knowledge-base applications
+- AI automation systems
+- Local n8n workflows
+- React and frontend prototypes
+- Gradio and Hugging Face demos
+- Bioinformatics and scientific computing workflows
+- Founder-led product experiments
+
+## Current focus
+
+- AI-assisted software development
+- Local-first business automation
+- Retrieval-Augmented Generation systems
+- Practical AI tools for content, operations, and decision support
+- Lovemeer as a conscious vegan and alcohol-free wellness curation platform
+- Founder workflows that connect product, automation, and customer discovery
+
+## Featured repositories
+
+### Agentic AI Skills Showcase
+Reusable AI agent skills, frontend design workflows, React best practices, browser automation, and cloud AI experimentation.
+
+### Personal Gmail AI Manager
+A local n8n and OpenRouter workflow for cost-effective AI-assisted Gmail management and productivity automation.
+
+### GenAI Career Path Finder
+An AI-powered career recommendation and roadmap prototype.
+
+### Polyglot RAG Lab
+A multilingual RAG learning project focused on retrieval, embeddings, and knowledge-base workflows.
+
+### Hugging Face Multimodal AI Lab
+A practical lab for experimenting with multimodal AI models and Hugging Face workflows.
+
+### Transcriptional Regulation in Oomycetes
+A scientific computing and bioinformatics research repository connected to doctoral research.
+
+## Technical areas
+
+```txt
+Python
+JavaScript
+React
+Next.js
+Gradio
+Hugging Face
+LangChain
+RAG
+Vector Databases
+n8n
+OpenRouter
+GitHub
+Playwright
+Chrome DevTools
+Bioinformatics
+Scientific Computing
+```
+
+## Founder direction
+
+I use software and AI to build practical systems for business automation, wellness-tech, scientific workflows, and AI-assisted operations.
+
+My goal is to build tools that are useful, understandable, cost-effective, and connected to real human needs.
+
+## Portfolio signal
+
+This GitHub profile is a growing portfolio of applied AI, automation, software development learning, and founder-led product building.
