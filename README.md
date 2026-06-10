@@ -1,8 +1,16 @@
 # Hi, I am Sakshi
 
-I am a Bioinformatics PhD, AI builder, and founder working at the intersection of scientific computing, Agentic AI, software automation, wellness technology, and practical business systems.
+I am a Bioinformatics PhD, AI builder, founder, and part-time Chief Operating Officer at Aomics, working at the intersection of scientific computing, Agentic AI, software automation, wellness technology, clinical research operations, and practical business systems.
 
-My work combines research thinking, product strategy, AI-assisted development, and automation workflows to build useful tools for real-world problems.
+My work combines research thinking, product strategy, operational leadership, AI-assisted development, and automation workflows to build useful tools for real-world problems.
+
+## Current role
+
+### Chief Operating Officer, Aomics
+
+At Aomics, I support company operations, business development, project coordination, client and partner communication, process improvement, and AI-enabled operational workflows.
+
+My COO role strengthens my focus on practical execution: turning ideas into structured workflows, coordinating cross-functional work, improving operational clarity, and connecting scientific, technical, and business priorities.
 
 ## What I build
 
@@ -14,6 +22,7 @@ My work combines research thinking, product strategy, AI-assisted development, a
 - Gradio and Hugging Face demos
 - Bioinformatics and scientific computing workflows
 - Founder-led product experiments
+- Operational workflows for research, startups, and business teams
 
 ## Current focus
 
@@ -21,6 +30,7 @@ My work combines research thinking, product strategy, AI-assisted development, a
 - Local-first business automation
 - Retrieval-Augmented Generation systems
 - Practical AI tools for content, operations, and decision support
+- Clinical research and startup operations workflows
 - Lovemeer as a conscious vegan and alcohol-free wellness curation platform
 - Founder workflows that connect product, automation, and customer discovery
 
@@ -63,14 +73,17 @@ Playwright
 Chrome DevTools
 Bioinformatics
 Scientific Computing
+Business Operations
+Startup Operations
+Clinical Research Operations
 ```
 
-## Founder direction
+## Founder and operator direction
 
-I use software and AI to build practical systems for business automation, wellness-tech, scientific workflows, and AI-assisted operations.
+I use software and AI to build practical systems for business automation, wellness-tech, scientific workflows, clinical research operations, and AI-assisted company operations.
 
 My goal is to build tools that are useful, understandable, cost-effective, and connected to real human needs.
 
 ## Portfolio signal
 
-This GitHub profile is a growing portfolio of applied AI, automation, software development learning, and founder-led product building.
+This GitHub profile is a growing portfolio of applied AI, automation, software development learning, scientific computing, operational leadership, and founder-led product building.
