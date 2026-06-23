@@ -43,6 +43,9 @@ My work sits at the intersection of practical AI implementation and real-world o
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-173f4b?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-3d908c?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0B4F6C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8a431f?style=flat-square)
+![Cybersecurity AI](https://img.shields.io/badge/Cybersecurity%20AI-111827?style=flat-square)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-111827?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
@@ -89,6 +92,14 @@ Highlights: structured JSON, audit trail, human review gates, safety overrides, 
 Document Q&A and retrieval workflow with authentication, uploads, re-indexing, memory, monitoring, source logs, A/B configuration tests, and deployment paths.
 
 Highlights: practical RAG system design for knowledge management, technical support, and document-heavy business workflows.
+
+### SentinelMesh AI
+
+[GitHub Repository](https://github.com/am-flyer/sentinelmesh-ai) | [Live Demo](https://bchoudha-bamsamhackathon.hf.space)
+
+Group cybersecurity AI project: a multi-agent analyzer built with LangGraph, Hugging Face embeddings, LlamaIndex, ChromaDB, and Gradio.
+
+Contribution signal: collaborated on practical AI/security workflow design, agent-style analysis, RAG-oriented architecture, app structure, documentation, and deployment-ready demo delivery.
 
 ### Clinical Data Standards Pilot Study
 
