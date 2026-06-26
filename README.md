@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:173f4b,45:3d908c,100:8a431f&text=Dr.%20Sakshi%20Bharti&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20%7C%20Bioinformatics%20%7C%20Data%20Automation%20%7C%20Founder&descAlignY=58&descSize=18)
 
-### `print("Building practical AI systems for science, business, and human workflows")`
+`print("Building practical AI systems for science, business, and human workflows")`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshibsharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshibsharma)
 [![Email](https://img.shields.io/badge/Email-sbbinfo90%40gmail.com-8a431f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbbinfo90@gmail.com)
