@@ -1,142 +1,118 @@
-<div align="center">
+# Sakshi B. Sharma
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:173f4b,45:3d908c,100:8a431f&text=Dr.%20Sakshi%20Bharti&fontColor=ffffff&fontAlignY=38&desc=Applied%20AI%20%7C%20Bioinformatics%20%7C%20Data%20Automation%20%7C%20Founder&descAlignY=58&descSize=18)
+**Founder, scientist, and AI systems builder | GenAI workflow architect | Data, automation, and product-minded builder based in Frankfurt**
 
-`Building practical AI systems for science, business, and human workflows`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshibsharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshibsharma)
-[![Email](https://img.shields.io/badge/Email-sbbinfo90%40gmail.com-8a431f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbbinfo90@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sakshianil-173f4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshianil)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-sakshianil-181717?style=flat&logo=github)](https://github.com/sakshianil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sakshianil.github.io-7B68EE?style=flat)](https://sakshianil.github.io)
+[![X](https://img.shields.io/badge/X-Sakshi_B_Sharma-000000?style=flat&logo=x)](https://x.com/Sakshi_B_Sharma)
+[![Location](https://img.shields.io/badge/Frankfurt-Germany-0A66C2?style=flat)](https://github.com/sakshianil)
 
 ---
 
 ## About Me
 
-I am an applied AI and data professional with a PhD background in biology and bioinformatics, founder experience, and hands-on work across AI automation, RAG systems, business intelligence, database workflows, and scientific data analysis.
+I build practical AI systems that turn ideas into workflows, products, and automation people can actually use. My work sits at the intersection of scientific thinking, data-heavy operations, GenAI application design, and hands-on engineering.
 
-My work sits at the intersection of practical AI implementation and real-world operations: translating fuzzy business or research problems into structured workflows, prototypes, documentation, dashboards, and decision-ready outputs.
+I am especially interested in agentic workflows, job-search automation, AI learning products, healthcare and life-science data systems, and small-business tools that reduce repetitive work. I like building from first principles, shipping fast, and then polishing the experience until it feels trustworthy.
 
-- Based in Frankfurt am Main / Konigstein im Taunus, Germany
-- Open to AI automation, data, bioinformatics, scientific operations, product operations, and solutions roles
-- Fluent in English; German B1 certified and progressing toward B2
-- Interested in AI systems that are useful, auditable, safe, and understandable
+Current focus areas:
 
----
-
-## Current Focus
-
-- Building AI agents, RAG applications, and automation workflows for business and knowledge work
-- Applying SQL, C#, Python, R, SAS, and BI analytics to data workflows
-- Expanding clinical data programming knowledge: SDTM, ADaM, TLF generation, SAS, and R
-- Creating beginner-friendly GitHub workshops for reproducible programming and version control
-- Connecting bioinformatics, product thinking, client communication, and applied AI delivery
+- AI agents, LangChain-style workflows, RAG, browser automation, and evaluation loops
+- Data products, dashboards, GitHub Pages portfolios, and lightweight full-stack apps
+- Practical automation for career operations, content generation, research, and business workflows
+- Founder-led experiments where product, brand, operations, and code all need to meet cleanly
 
 ---
 
-## Skills & Tools
+<!--START_SECTION:github_activity-->
+## GitHub Snapshot
 
-### AI, Automation, and Product Systems
+![Public Repos](https://img.shields.io/badge/Public%20Repos-34-blue?style=flat)
+![Followers](https://img.shields.io/badge/Followers-0-blue?style=flat)
+![Location](https://img.shields.io/badge/Location-Frankfurt%2C%20Germany-7B68EE?style=flat)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-173f4b?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-3d908c?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0B4F6C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-8a431f?style=flat-square)
-![Cybersecurity AI](https://img.shields.io/badge/Cybersecurity%20AI-111827?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-111827?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**My GitHub Data**
 
-### Data, BI, and Scientific Computing
+> Public repositories: **34**
+>
+> Source repositories: **18**
+>
+> Forked repositories: **16**
+>
+> Latest public push: **Jun 30, 2026, 7:06 PM**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0B4F6C?style=flat-square)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-8a431f?style=flat-square)
-![CDISC](https://img.shields.io/badge/SDTM%20%7C%20ADaM%20%7C%20TLF-3d908c?style=flat-square)
+**I Mostly Code In**
 
-### Web, Workflow, and Delivery
+```text
+TypeScript          5 repos   ███████░░░░░░░░░░░░░    33.3 %
+Jupyter Notebook    3 repos   ████░░░░░░░░░░░░░░░░    20.0 %
+Python              3 repos   ████░░░░░░░░░░░░░░░░    20.0 %
+HTML                2 repos   ███░░░░░░░░░░░░░░░░░    13.3 %
+CSS                 1 repos   █░░░░░░░░░░░░░░░░░░░     6.7 %
+SAS                 1 repos   █░░░░░░░░░░░░░░░░░░░     6.7 %
+```
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Recently Updated Projects**
 
----
+- [sb.dev](https://github.com/sakshianil/sb.dev) (source · TypeScript) - No description yet.
+- [copilot-cli-for-beginners](https://github.com/sakshianil/copilot-cli-for-beginners) (fork) - Learn how to get started using the GitHub Copilot CLI!
+- [ai-website-cloner-template](https://github.com/sakshianil/ai-website-cloner-template) (fork · TypeScript) - Clone any website with one command using AI coding agents
+- [OmniRoute](https://github.com/sakshianil/OmniRoute) (fork) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline ...
+- [ai-engineering-from-scratch](https://github.com/sakshianil/ai-engineering-from-scratch) (fork) - Learn it. Build it. Ship it for others.
+- [headroom](https://github.com/sakshianil/headroom) (fork) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Librar...
 
-## Selected Projects
-
-### MenuPulse AI
-
-Full-stack restaurant intelligence platform using Vue 3, TypeScript, Node.js, PostgreSQL, Prisma, and LLM integration through OpenRouter.
-
-Highlights: structured outputs, schema validation, deterministic fallbacks, prompt-injection checks, rate limiting, security headers, Docker Compose, tests, and GitHub Actions.
-
-### Personal Gmail AI Manager
-
-n8n workflow connecting Gmail, OpenRouter, and Google Sheets to classify messages, apply labels, draft reviewed replies, and log decisions.
-
-Highlights: structured JSON, audit trail, human review gates, safety overrides, and reusable business inbox automation patterns.
-
-### Advanced Configurable RAG Application
-
-Document Q&A and retrieval workflow with authentication, uploads, re-indexing, memory, monitoring, source logs, A/B configuration tests, and deployment paths.
-
-Highlights: practical RAG system design for knowledge management, technical support, and document-heavy business workflows.
-
-### SentinelMesh AI
-
-[GitHub Repository](https://github.com/am-flyer/sentinelmesh-ai) | [Live Demo](https://bchoudha-bamsamhackathon.hf.space)
-
-Group cybersecurity AI project: a multi-agent analyzer built with LangGraph, Hugging Face embeddings, LlamaIndex, ChromaDB, and Gradio.
-
-Contribution signal: collaborated on practical AI/security workflow design, agent-style analysis, RAG-oriented architecture, app structure, documentation, and deployment-ready demo delivery.
-
-### Clinical Data Standards Pilot Study
-
-Pilot workflow covering SDTM mapping, ADaM dataset preparation, TLF generation, SAS, R, quality checks, and reporting concepts.
-
-Highlights: bridges scientific data handling, reproducible programming, and clinical research data standards.
-
----
-
-## Professional Snapshot
-
-- Founder of Lovemeer, a wellness-focused business platform
-- COO / Bioinformatics and AI Operations at Aomics GmbH
-- PhD research in biology and bioinformatics at Goethe University Frankfurt and Senckenberg BIK-F
-- Research Associate experience in NGS and omics pipelines for Brassica species
-- Experience translating technical capabilities into B2B service positioning, proposals, and client communication
-
----
-
-## GitHub Stats
+Last updated: Jun 30, 2026, 7:07 PM Europe/Berlin
+<!--END_SECTION:github_activity-->
 
 <div align="center">
 
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshianil&show_icons=true&theme=vue&hide_border=true&rank_icon=github)
+### Most Utilised Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshianil&layout=compact&theme=vue&hide_border=true)
+#### AI, Automation, and Product Engineering
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sakshianil&theme=vue&hide_border=true)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" height="50" width="50" />
+
+#### Data, Research, and Workflow Tools
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" height="50" width="50" />
+
+#### Cloud, Version Control, and Delivery
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" height="50" width="50" />
 
 </div>
 
 ---
 
-## Let's Connect
+## Featured Work Themes
 
-I am happy to connect around applied AI, data automation, bioinformatics, clinical data workflows, scientific operations, product operations, and practical digital transformation.
+- **Agentic systems:** local-first automation, approval dashboards, browser workflows, and AI-assisted research loops.
+- **Learning products:** hands-on AI learning content, career-path tools, and practical GenAI demos.
+- **Data and healthcare workflows:** data-governance-aware analysis, SAS/CDISC-adjacent portfolio work, and reproducible reporting.
+- **Founder experiments:** brand, product, affiliate catalog, and operational tooling built with a shipping mindset.
 
-- LinkedIn: [linkedin.com/in/sakshibsharma](https://www.linkedin.com/in/sakshibsharma)
+## Connect With Me
+
+I am open to collaboration around:
+
+- AI agents and real-world automation
+- Data products, dashboards, and workflow tooling
+- AI learning content and portfolio projects
+- Founder-led product experiments
+
+**Links**
+
 - GitHub: [github.com/sakshianil](https://github.com/sakshianil)
-- Email: [sbbinfo90@gmail.com](mailto:sbbinfo90@gmail.com)
+- Portfolio: [sakshianil.github.io](https://sakshianil.github.io)
+- X: [@Sakshi_B_Sharma](https://x.com/Sakshi_B_Sharma)
