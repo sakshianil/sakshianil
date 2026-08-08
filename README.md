@@ -27,19 +27,19 @@ Current focus areas:
 <!--START_SECTION:github_activity-->
 ## GitHub Snapshot
 
-![Public Repos](https://img.shields.io/badge/Public%20Repos-34-blue?style=flat)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-36-blue?style=flat)
 ![Followers](https://img.shields.io/badge/Followers-0-blue?style=flat)
 ![Location](https://img.shields.io/badge/Location-Frankfurt%2C%20Germany-7B68EE?style=flat)
 
 **My GitHub Data**
 
-> Public repositories: **34**
+> Public repositories: **36**
 >
 > Source repositories: **18**
 >
-> Forked repositories: **16**
+> Forked repositories: **18**
 >
-> Latest public push: **Jun 30, 2026, 7:06 PM**
+> Latest public push: **Aug 8, 2026, 10:20 AM**
 
 **I Mostly Code In**
 
@@ -49,19 +49,19 @@ Jupyter Notebook    3 repos   ████░░░░░░░░░░░░�
 Python              3 repos   ████░░░░░░░░░░░░░░░░    20.0 %
 HTML                2 repos   ███░░░░░░░░░░░░░░░░░    13.3 %
 CSS                 1 repos   █░░░░░░░░░░░░░░░░░░░     6.7 %
-SAS                 1 repos   █░░░░░░░░░░░░░░░░░░░     6.7 %
+JavaScript          1 repos   █░░░░░░░░░░░░░░░░░░░     6.7 %
 ```
 
 **Recently Updated Projects**
 
-- [sb.dev](https://github.com/sakshianil/sb.dev) (source · TypeScript) - No description yet.
-- [copilot-cli-for-beginners](https://github.com/sakshianil/copilot-cli-for-beginners) (fork) - Learn how to get started using the GitHub Copilot CLI!
-- [ai-website-cloner-template](https://github.com/sakshianil/ai-website-cloner-template) (fork · TypeScript) - Clone any website with one command using AI coding agents
-- [OmniRoute](https://github.com/sakshianil/OmniRoute) (fork) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline ...
-- [ai-engineering-from-scratch](https://github.com/sakshianil/ai-engineering-from-scratch) (fork) - Learn it. Build it. Ship it for others.
+- [vanzara-woven-legacy](https://github.com/sakshianil/vanzara-woven-legacy) (source · TypeScript) - No description yet.
 - [headroom](https://github.com/sakshianil/headroom) (fork) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Librar...
+- [SAS-workshop-material](https://github.com/sakshianil/SAS-workshop-material) (source · SAS) - A job-oriented introduction to SAS programming in clinical research
+- [sakshianil.github.io](https://github.com/sakshianil/sakshianil.github.io) (source · HTML) - No description yet.
+- [exercises-dataset](https://github.com/sakshianil/exercises-dataset) (fork) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, i...
+- [project-based-learning](https://github.com/sakshianil/project-based-learning) (fork) - Curated list of project-based tutorials
 
-Last updated: Jun 30, 2026, 7:07 PM Europe/Berlin
+Last updated: Aug 8, 2026, 3:36 PM Europe/Berlin
 <!--END_SECTION:github_activity-->
 
 <div align="center">
