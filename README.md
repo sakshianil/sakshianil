@@ -4,8 +4,12 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sakshianil-181717?style=flat&logo=github)](https://github.com/sakshianil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sakshianil.github.io-7B68EE?style=flat)](https://sakshianil.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SakshiBSharma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/SakshiBSharma)
 [![X](https://img.shields.io/badge/X-Sakshi_B_Sharma-000000?style=flat&logo=x)](https://x.com/Sakshi_B_Sharma)
+[![YouTube](https://img.shields.io/badge/YouTube-drsakshibharti-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@drsakshibharti)
+[![Lovemeer](https://img.shields.io/badge/Lovemeer-lovemeer.de-8A2BE2?style=flat)](https://lovemeer.de/home/)
 [![Location](https://img.shields.io/badge/Frankfurt-Germany-0A66C2?style=flat)](https://github.com/sakshianil)
+[![Email](https://img.shields.io/badge/Email-available_on_request-555555?style=flat)](https://github.com/sakshianil)
 
 ---
 
@@ -39,7 +43,7 @@ Current focus areas:
 >
 > Forked repositories: **18**
 >
-> Latest public push: **Aug 25, 2026, 3:54 PM**
+> Latest public push: **Sep 2, 2026, 7:33 PM Europe/Berlin**
 
 **I Mostly Code In**
 
@@ -52,16 +56,16 @@ CSS                 1 repos   █░░░░░░░░░░░░░░░�
 JavaScript          1 repos   █░░░░░░░░░░░░░░░░░░░     6.7 %
 ```
 
-**Recently Updated Projects**
+**Recently Active Projects**
 
-- [sb.dev](https://github.com/sakshianil/sb.dev) (source · TypeScript) - No description yet.
-- [sakshianil](https://github.com/sakshianil/sakshianil) (source · JavaScript) - No description yet.
-- [vanzara-woven-legacy](https://github.com/sakshianil/vanzara-woven-legacy) (source · TypeScript) - No description yet.
-- [headroom](https://github.com/sakshianil/headroom) (fork) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Librar...
-- [SAS-workshop-material](https://github.com/sakshianil/SAS-workshop-material) (source · SAS) - A job-oriented introduction to SAS programming in clinical research
-- [sakshianil.github.io](https://github.com/sakshianil/sakshianil.github.io) (source · HTML) - No description yet.
+- [MenuPulse-AI](https://github.com/sakshianil/MenuPulse-AI) (source · TypeScript) - AI menu and operations tooling experiment.
+- [sb.dev](https://github.com/sakshianil/sb.dev) (source · TypeScript) - Developer portfolio and product workspace.
+- [SAS-workshop-material](https://github.com/sakshianil/SAS-workshop-material) (source · SAS) - A job-oriented introduction to SAS programming in clinical research.
+- [vanzara-woven-legacy](https://github.com/sakshianil/vanzara-woven-legacy) (source · TypeScript) - Brand and commerce experience for woven legacy work.
+- [sakshianil.github.io](https://github.com/sakshianil/sakshianil.github.io) (source · HTML) - GitHub Pages portfolio site.
+- [polyglot-rag-lab](https://github.com/sakshianil/polyglot-rag-lab) (source · Jupyter Notebook) - Multilingual Basic and Advanced RAG showcase using vector databases, Gradio apps, and notebook workflows.
 
-Last updated: Aug 26, 2026, 3:43 PM Europe/Berlin
+Last updated: Sep 2, 2026, 7:45 PM Europe/Berlin
 <!--END_SECTION:github_activity-->
 
 <div align="center">
@@ -102,6 +106,15 @@ Last updated: Aug 26, 2026, 3:43 PM Europe/Berlin
 - **Data and healthcare workflows:** data-governance-aware analysis, SAS/CDISC-adjacent portfolio work, and reproducible reporting.
 - **Founder experiments:** brand, product, affiliate catalog, and operational tooling built with a shipping mindset.
 
+## Selected Projects
+
+- **[sb.dev](https://github.com/sakshianil/sb.dev):** TypeScript portfolio and developer workspace connected to a live Vercel deployment.
+- **[MenuPulse-AI](https://github.com/sakshianil/MenuPulse-AI):** TypeScript AI product experiment for menu and business operations workflows.
+- **[telecom-campaign-ops-ai](https://github.com/sakshianil/telecom-campaign-ops-ai):** AI-powered telecom campaign operations pilot for virtual centers.
+- **[polyglot-rag-lab](https://github.com/sakshianil/polyglot-rag-lab):** Multilingual RAG notebooks and Gradio workflow demos.
+- **[SAS-workshop-material](https://github.com/sakshianil/SAS-workshop-material):** Clinical-research-oriented SAS workshop material with CDISC and TLF themes.
+- **[vanzara-woven-legacy](https://github.com/sakshianil/vanzara-woven-legacy):** TypeScript brand and commerce experience for woven legacy storytelling.
+
 ## Connect With Me
 
 I am open to collaboration around:
@@ -115,4 +128,8 @@ I am open to collaboration around:
 
 - GitHub: [github.com/sakshianil](https://github.com/sakshianil)
 - Portfolio: [sakshianil.github.io](https://sakshianil.github.io)
+- LinkedIn: [linkedin.com/in/SakshiBSharma](https://www.linkedin.com/in/SakshiBSharma)
 - X: [@Sakshi_B_Sharma](https://x.com/Sakshi_B_Sharma)
+- YouTube: [@drsakshibharti](https://www.youtube.com/@drsakshibharti)
+- Lovemeer: [lovemeer.de/home](https://lovemeer.de/home/)
+- Email: available on request
